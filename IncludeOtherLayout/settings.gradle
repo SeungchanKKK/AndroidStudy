@@ -1,0 +1,2 @@
+rootProject.name = "IncludeOtherLayout"
+include ':app'
